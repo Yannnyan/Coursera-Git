@@ -11,4 +11,7 @@
     Check the issue tracker for any open issues or feature requests. If you're working on something, please comment on the issue to let others know.
     Code review
     All contributions will go through a code review process. Be open to feedback and be willing to make changes if necessary. Code reviews help maintain code quality and consistency.
+    Contact
+    Feel free to contact the project owner for additional collaboration
     Thank you for your contribution!
+    
